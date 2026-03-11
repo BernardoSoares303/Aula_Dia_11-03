@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aula_dia_11_03/1.0.0": {
+        "runtime": {
+          "Aula_dia_11_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_dia_11_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
